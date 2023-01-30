@@ -10,5 +10,5 @@ mongoose.connect(
     },
     (err) =>
       err ? console.log(err) : console.log(
-        "Connected to yourDB-name database")
+        "Connected to school  database")
   );
